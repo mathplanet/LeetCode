@@ -12,4 +12,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0180-consecutive-numbers](https://github.com/mathplanet/LeetCode/tree/master/0180-consecutive-numbers) |
 | [0184-department-highest-salary](https://github.com/mathplanet/LeetCode/tree/master/0184-department-highest-salary) |
 | [0608-tree-node](https://github.com/mathplanet/LeetCode/tree/master/0608-tree-node) |
+| [0626-exchange-seats](https://github.com/mathplanet/LeetCode/tree/master/0626-exchange-seats) |
 <!---LeetCode Topics End-->
