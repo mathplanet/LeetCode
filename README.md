@@ -15,4 +15,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0626-exchange-seats](https://github.com/mathplanet/LeetCode/tree/master/0626-exchange-seats) |
 | [1135-customers-who-bought-all-products](https://github.com/mathplanet/LeetCode/tree/master/1135-customers-who-bought-all-products) |
 | [1268-market-analysis-i](https://github.com/mathplanet/LeetCode/tree/master/1268-market-analysis-i) |
+| [1278-product-price-at-a-given-date](https://github.com/mathplanet/LeetCode/tree/master/1278-product-price-at-a-given-date) |
 <!---LeetCode Topics End-->
