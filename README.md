@@ -21,4 +21,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1327-last-person-to-fit-in-the-bus](https://github.com/mathplanet/LeetCode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1452-restaurant-growth](https://github.com/mathplanet/LeetCode/tree/master/1452-restaurant-growth) |
 | [1523-capital-gainloss](https://github.com/mathplanet/LeetCode/tree/master/1523-capital-gainloss) |
+| [2057-count-salary-categories](https://github.com/mathplanet/LeetCode/tree/master/2057-count-salary-categories) |
 <!---LeetCode Topics End-->
