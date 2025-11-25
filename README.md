@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0180-consecutive-numbers](https://github.com/mathplanet/LeetCode/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/mathplanet/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0184-department-highest-salary](https://github.com/mathplanet/LeetCode/tree/master/0184-department-highest-salary) |
+| [0584-find-customer-referee](https://github.com/mathplanet/LeetCode/tree/master/0584-find-customer-referee) |
 | [0608-tree-node](https://github.com/mathplanet/LeetCode/tree/master/0608-tree-node) |
 | [0620-not-boring-movies](https://github.com/mathplanet/LeetCode/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/mathplanet/LeetCode/tree/master/0626-exchange-seats) |
