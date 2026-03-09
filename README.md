@@ -4,8 +4,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0175-combine-two-tables](https://github.com/mathplanet/LeetCode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/mathplanet/LeetCode/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/mathplanet/LeetCode/tree/master/0177-nth-highest-salary) |
