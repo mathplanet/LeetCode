@@ -1,6 +1,6 @@
 # Write your MySQL query statement below
 SELECT a.name as Employee
 FROM Employee a
-JOIN Employee b on b.id = a.managerId
+LEFT JOIN Employee b on a.managerId = b.id
 WHERE a.salary > b.salary
 AND a.managerId is not null
